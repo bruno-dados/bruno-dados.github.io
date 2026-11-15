@@ -1,0 +1,40 @@
+{
+  "release": "sites-20261115",
+  "date": "2026-11-13",
+  "areas": [
+    "dados"
+  ],
+  "projects": {
+    "dados": [
+      "dados-01",
+      "dados-02",
+      "dados-03",
+      "dados-04",
+      "dados-05"
+    ]
+  },
+  "area_counts": {
+    "dados": 5
+  },
+  "active_projects": 68,
+  "software_projects": [
+    "rakestra-app",
+    "rakestra-gestao",
+    "agastudio"
+  ],
+  "pending_beauty_review_excluded": true,
+  "animated_areas": [
+    "beleza",
+    "design",
+    "produtos",
+    "dados",
+    "consultoria",
+    "software"
+  ],
+  "review_tools_published": false,
+  "public_resume_languages": [
+    "pt"
+  ],
+  "public_resume_count": 5,
+  "clean_urls": true
+}

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Projetos | Bruno Nascimento</title>
+  <meta name="robots" content="noindex" />
+  <link rel="canonical" href="https://bruniversamente.github.io/projetos/" />
+  <script>
+    const target = new URL("../projetos/", window.location.href);
+    const source = new URL(window.location.href);
+    source.searchParams.forEach((value, key) => target.searchParams.set(key === "case" ? "project" : key, value));
+    target.hash = source.hash;
+    window.location.replace(target);
+  </script>
+</head>
+<body>
+  <p><a href="../projetos/">Abrir projetos</a></p>
+</body>
+</html>

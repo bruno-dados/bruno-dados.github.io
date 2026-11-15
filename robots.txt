@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bruno-dados.github.io/sitemap.xml
