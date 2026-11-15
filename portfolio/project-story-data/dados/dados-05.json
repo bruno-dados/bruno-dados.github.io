@@ -865,7 +865,7 @@
             "items": [
               {
                 "title": "Explorar jogadores no dashboard completo",
-                "url": "https://bruniversamente.github.io/dashboards/?case=tennis-pressure&lang=pt"
+                "url": "https://bruno-dados.github.io/dashboards/?case=tennis-pressure&lang=pt"
               },
               {
                 "title": "Código, método e arquivos de revisão",
@@ -877,7 +877,7 @@
               },
               {
                 "title": "Consultar os dados completos",
-                "url": "https://bruniversamente.github.io/dashboards/data/tennis-pressure.json"
+                "url": "https://bruno-dados.github.io/dashboards/data/tennis-pressure.json"
               }
             ]
           },
